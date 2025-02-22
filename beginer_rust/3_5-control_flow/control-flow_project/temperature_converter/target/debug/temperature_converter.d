@@ -1,0 +1,1 @@
+/home/pc/Rust_learning/beginer_rust/3_5-control_flow/control-flow_project/temperature_converter/target/debug/temperature_converter: /home/pc/Rust_learning/beginer_rust/3_5-control_flow/control-flow_project/temperature_converter/src/main.rs
